@@ -1,0 +1,10 @@
+{"id": 1, "type": "single", "question": "招商银行2023年营业收入和归属于本行股东的净利润分别是多少？", "expected": "营业收入339,123百万元（3,391.23亿元）；归母净利润146,602百万元（1,466.02亿元）"}
+{"id": 2, "type": "single", "question": "工商银行2023年不良贷款率是多少？", "expected": "1.36%"}
+{"id": 3, "type": "single", "question": "建设银行2023年不良贷款率是多少？", "expected": "1.37%"}
+{"id": 4, "type": "single", "question": "农业银行2023年不良贷款率是多少？", "expected": "1.33%"}
+{"id": 5, "type": "single", "question": "中国银行2023年净息差是多少？", "expected": "1.59%"}
+{"id": 6, "type": "single", "question": "交通银行2023年净息差是多少？", "expected": "1.28%"}
+{"id": 7, "type": "single", "question": "兴业银行2023年营业收入是多少？", "expected": "210,831百万元（2,108.31亿元）"}
+{"id": 8, "type": "single", "question": "中信银行2023年归属于本行股东的净利润是多少？", "expected": "67,016百万元（670.16亿元）"}
+{"id": 9, "type": "cross", "question": "10家银行中，2023年不良贷款率最低的是哪家？", "expected": "招商银行，0.95%"}
+{"id": 10, "type": "cross", "question": "10家银行中，2023年净息差最高的是哪家？", "expected": "招商银行，2.15%"}

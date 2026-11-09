@@ -1,0 +1,19 @@
+{
+  "total": 10,
+  "correct": 10,
+  "accuracy": 1.0,
+  "single_total": 8,
+  "single_correct": 8,
+  "cross_total": 2,
+  "cross_correct": 2,
+  "avg_seconds": 5.1,
+  "min_seconds": 3.3,
+  "max_seconds": 6.9,
+  "errors": [],
+  "limitations": [
+    "部分单公司题的引用列表仍夹带少量无关页（如附注封面），高分出处已排在前面。",
+    "表格跨页时表头可能丢失，需按页码回看原PDF。",
+    "不同银行对净息差的表述不一致（净息差/净利息收益率），已做同义词扩展；其他指标仍需逐家核对口径。",
+    "大模型偶尔会把相邻行数字串行，关键数字必须以引用页复核。"
+  ]
+}

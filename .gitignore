@@ -1,0 +1,14 @@
+# 不提交年报原文、抽取结果和索引（体积大，且作业要求提供下载脚本）
+data/pdfs/
+data/pages/
+data/index/
+data/chunks.jsonl
+data/*.txt
+*.pdf
+!eval/一页结论.pdf
+*.npy
+*.pkl
+logs*.txt
+__pycache__/
+.venv/
+.env
